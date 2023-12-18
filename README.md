@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @lucasmiguelito02
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Olá, Eu sou Lucas Miguel 
+- 🎉 Tenho 21 anos
+- 👨‍💻 Estou Cursando Tecnologia em Sistemas para Internet no IFES ST
+- 🖥 Cursei 4 periodos de ADS
+
 
 <!---
 lucasmiguelito02/lucasmiguelito02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
